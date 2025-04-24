@@ -1,5 +1,5 @@
 
-# SentimentAnalysisMLNET - Expandido
+# MLNET - 
 
 Projeto com análise de sentimentos utilizando ML.NET e uma API ASP.NET Core para consumo via HTTP.
 
